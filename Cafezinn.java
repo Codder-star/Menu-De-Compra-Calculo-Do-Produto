@@ -19,7 +19,7 @@ public class Cafezinn
     {
         int Pedido,PedidoFinal,v;
         String tabela  = JOptionPane.showInputDialog(
-                "<html> "        + "Menu Do Cafezinho Do Hoff"+ "<br>"
+          "<html> "        + "Menu Do Cafezinho Do Hoff"+ "<br>"
                         +  "*************************" + "<br>"
                         + "Digite 1 Para Cappuchino = 2,00"+ "<br>"
                         + "Digite 2 Para Achocolatado = 3,00 "+ "<br>"
