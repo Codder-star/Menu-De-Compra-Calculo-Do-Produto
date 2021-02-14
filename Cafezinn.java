@@ -18,7 +18,6 @@ public class Cafezinn
     public static void main(String[] args) 
     {
         int Pedido,PedidoFinal,v;
-        Scanner input = new Scanner(System.in);
         String tabela  = JOptionPane.showInputDialog(
                 "<html> "        + "Menu Do Cafezinho Do Hoff"+ "<br>"
                         +  "*************************" + "<br>"
